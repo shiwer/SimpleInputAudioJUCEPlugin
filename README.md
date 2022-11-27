@@ -11,4 +11,4 @@ It :
 - Capable of loading/saving parameters including the audio file loaded
 - Cross platform.
 
-!(example)[screenshot.png]
+![example](screenshot.png)
