@@ -8,6 +8,7 @@
 
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
+#include "AudioThumbnailComp.h"
 
 //==============================================================================
 SimpleAudioInputPluginAudioProcessorEditor::SimpleAudioInputPluginAudioProcessorEditor(SimpleAudioInputPluginAudioProcessor& p) :
